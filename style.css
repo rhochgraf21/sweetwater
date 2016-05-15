@@ -4,6 +4,7 @@ html {
   font-family: 'IM Fell English', serif;
   height: 100%;
   width: 100%;
+  overflow: none;
 }
 @keyframes slidy {
 0% { left: 0%; }
