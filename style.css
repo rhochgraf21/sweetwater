@@ -4,7 +4,7 @@ html, body {
   font-family: 'IM Fell English', serif;
 }
 .main img {
-    width: 80em;
+    width: 100%;
     }
 .main {
     overflow: hidden;;
